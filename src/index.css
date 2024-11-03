@@ -22,9 +22,9 @@ body {
   margin-bottom: 2%;
 }
 
-.filterWrapper {
+/* .filterWrapper {
   margin: 2% 0% 2% 0%;
-}
+} */
 
 .headerText {
   color: #F5A9BC;
@@ -32,11 +32,11 @@ body {
   margin: 0% 2% 0% 2%;
 }
 
-.largeHeader {
+/* .largeHeader {
   font-size: 3.5em;
   font-weight: bold;
   color: #3B0B0B;
-}
+} */
 
 .smallHeader {
   font-size: 1.75em;
@@ -74,9 +74,9 @@ ul {
 }
 
 
-.indexWrapper {
+/* .indexWrapper {
   margin: auto;
-}
+} */
 
 
 .pigTile {
